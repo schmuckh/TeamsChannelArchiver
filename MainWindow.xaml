@@ -19,8 +19,8 @@
         <ComboBox Name="cbxChannelSelect" HorizontalAlignment="Left" Margin="250,330,0,0" VerticalAlignment="Top" Width="170" Height="30" SelectionChanged="cbxChannelSelect_SelectionChanged"/>
         <Label Name="lblExportFiles" Content="Export Files:" HorizontalAlignment="Left" Margin="40,400,0,0" VerticalAlignment="Top" Width="170"/>
         <CheckBox Name="chbText" Content="Textfile" HorizontalAlignment="Left" Margin="40,430,0,0" VerticalAlignment="Top"/>
-        <CheckBox Name="chbHtml" Content="HTML" HorizontalAlignment="Left" Margin="160,430,0,0" VerticalAlignment="Top"/>
-        <CheckBox Name="chbMessage" Content="Export Message" HorizontalAlignment="Left" Margin="270,430,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="chbHtml" Content="HTML" HorizontalAlignment="Left" Margin="160,430,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox Name="chbMessage" Content="Export Message" HorizontalAlignment="Left" Margin="270,430,0,0" VerticalAlignment="Top" IsChecked="True"/>
         <Label Name="lblSysMessages" Content="System Messages:" HorizontalAlignment="Left" Margin="40,470,0,0" VerticalAlignment="Top" Width="170"/>
         <TextBox Name="tbxSysMessages" HorizontalAlignment="Left" Margin="40,500,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalScrollBarVisibility="Auto" Width="380" Height="200" FontFamily="Arial" IsReadOnly="True"/>
         <Label Name="lblPreview" Content="Preview:" HorizontalAlignment="Left" Margin="500,40,0,0" VerticalAlignment="Top" Width="150"/>
