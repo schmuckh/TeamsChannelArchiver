@@ -32,10 +32,15 @@ https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-conf
 ![image](https://user-images.githubusercontent.com/124037247/216258438-b57451d6-4b81-4600-b5a1-64a397e923a5.png)
 
 Click on Login will open the Azure Login Dialog in your Browser
+
 Choose Timeframe to Export (Default: Last 90 days)
+
 Select Team
+
 Select Channel
+
 Select format (Text/HTML or both)
+
 Select if a Message will appear in the Teams channel that the conversation was exported
 ![image](https://user-images.githubusercontent.com/124037247/216258132-4055dbd9-6664-4351-b67d-1f6801607208.png)
 
