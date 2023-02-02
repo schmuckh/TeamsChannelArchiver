@@ -54,5 +54,6 @@ A new folder "Chatprotocol" will apear in your channel files folder
 ## Known Issues
 
 The Export is plain Text or HTML, so some of the channel messages - like Praise - will apear in raw form (JSON most times)
+
 The App was not testet on any possible channel message format!
 
