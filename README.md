@@ -8,10 +8,10 @@ Tool to archive Microsoft Teams channels as Text or HTML.
 - Newtonsoft.Json (13.0.2)
 
 ## Getting started
-1. Register a new Application in your Azure Tenant
+1. Register a new application in your Azure Tenant
 https://learn.microsoft.com/en-us/power-apps/developer/data-platform/walkthrough-register-app-azure-active-directory
 
-2. Set Permissions for the App
+2. Set permissions for the app
 https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-access-web-apis
 ![image](https://user-images.githubusercontent.com/124037247/216256673-63e8c540-6726-4732-b0d5-ab912b28b375.png)
 
@@ -26,25 +26,25 @@ https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-conf
 3. Insert TENANTID, APPLICATIONID and REDIRECTURI in MainWindow.xaml.cs
 ![image](https://user-images.githubusercontent.com/124037247/216256168-0d0cfab3-b517-4ed8-9d92-e519af3698be.png)
 
-4. Create the App
+4. Create the app
 
 ## Usage
 ![image](https://user-images.githubusercontent.com/124037247/216258438-b57451d6-4b81-4600-b5a1-64a397e923a5.png)
 
 Click on Login will open the Azure Login Dialog in your browser
 
-Choose a Timeframe to Export (Default: Last 90 days)
+Choose a timeframe to export (Default: Last 90 days)
 
-Select a Team (only Teams you are a member)
+Select a team (only teams you are a member)
 
-Select a Channel (only Channels you are a member)
+Select a channel (only channels you are a member)
 
 Select format (Text/HTML or both)
 
-Select if a Message will appear in the Teams channel that the conversation was exported
+Select if a message will appear in the Teams channel that the conversation was exported
 ![image](https://user-images.githubusercontent.com/124037247/216258132-4055dbd9-6664-4351-b67d-1f6801607208.png)
 
-Preview will show you the Channel Messages
+Preview will show you the channel messages
 
 Click on Export
 
