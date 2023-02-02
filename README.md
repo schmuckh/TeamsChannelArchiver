@@ -31,13 +31,13 @@ https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-conf
 ## Usage
 ![image](https://user-images.githubusercontent.com/124037247/216258438-b57451d6-4b81-4600-b5a1-64a397e923a5.png)
 
-Click on Login will open the Azure Login Dialog in your Browser
+Click on Login will open the Azure Login Dialog in your browser
 
-Choose Timeframe to Export (Default: Last 90 days)
+Choose a Timeframe to Export (Default: Last 90 days)
 
-Select Team
+Select a Team (only Teams you are a member)
 
-Select Channel
+Select a Channel (only Channels you are a member)
 
 Select format (Text/HTML or both)
 
@@ -48,7 +48,7 @@ Preview will show you the Channel Messages
 
 Click on Export
 
-A new folder "Chatprotokol" will apear in your channels files folder
+A new folder "Chatprotocol" will apear in your channel files folder
 ![image](https://user-images.githubusercontent.com/124037247/216258813-bb1d5c40-9083-4e90-9928-9fa869bbd394.png)
 
 ## Known Issues
