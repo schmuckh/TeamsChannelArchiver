@@ -51,3 +51,8 @@ Click on Export
 A new folder "Chatprotokol" will apear in your channels files folder
 ![image](https://user-images.githubusercontent.com/124037247/216258813-bb1d5c40-9083-4e90-9928-9fa869bbd394.png)
 
+## Known Issues
+
+The Export is plain Text or HTML, so some of the channel messages - like Praise - will apear in raw form (JSON most times)
+The App was not testet on any possible channel message format!
+
